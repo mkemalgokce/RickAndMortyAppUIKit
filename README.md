@@ -8,9 +8,10 @@ A simple app using the Rick and Morty API. It writed with UIKit framework. It us
 
 ## Screenshots
 
-<img src="https://github.com/mkemalgokce/RickAndMortyAppUIKit/assets/46056478/0e1a882a-c864-43b8-9b4f-ac4902d79fed" width="300">
-<img src="https://github.com/mkemalgokce/RickAndMortyAppUIKit/assets/46056478/be61812a-0c3e-4fab-84ea-b17e22260b24" width="300">
-<img src="https://github.com/mkemalgokce/RickAndMortyAppUIKit/assets/46056478/06fecb4c-42f7-402a-9072-5ed7e1b6b59e" width="300">
+
+<img src="https://github.com/mkemalgokce/RickAndMortyAppUIKit/assets/46056478/d4b03975-c962-4b7e-b55e-96dca037acf9" width="300">
+<img src="https://github.com/mkemalgokce/RickAndMortyAppUIKit/assets/46056478/d11c2b1a-ebb1-4340-989a-d625f16e9871" width="300">
+<img src="https://github.com/mkemalgokce/RickAndMortyAppUIKit/assets/46056478/f296504d-7edc-44f8-aa39-6ca016da11cd" width="300">
 
 
 
